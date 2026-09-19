@@ -144,6 +144,11 @@ A map visualization is used to provide a geographical view of customer churn acr
 - Added state-wise revenue analysis.
 - Used interactive Power BI visuals to explore customer behavior.
 - Applied data cleaning, transformation, modeling, and visualization techniques.
+## Dashboard Preview
+
+Add your Power BI dashboard screenshot here:
+
+![Power BI Dashboard](https://github.com/HARIPRASADOLA/sales-analysis-amazon-products-Dashboard/blob/main/sale%20amazon%201.png)
 
  👨‍💻 Author
 
