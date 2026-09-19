@@ -148,7 +148,7 @@ A map visualization is used to provide a geographical view of customer churn acr
 
 Add your Power BI dashboard screenshot here:
 
-![Power BI Dashboard](https://github.com/HARIPRASADOLA/sales-analysis-amazon-products-Dashboard/blob/main/sale%20amazon%201.png)
+![Power BI Dashboard](https://github.com/HARIPRASADOLA/Customer-Churn-Dataset-Analysis-Dashboard-/blob/main/customer%20churn%20dashboard.png)
 
  👨‍💻 Author
 
