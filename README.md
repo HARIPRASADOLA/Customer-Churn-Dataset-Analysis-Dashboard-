@@ -150,6 +150,11 @@ Add your Power BI dashboard screenshot here:
 
 ![Power BI Dashboard](https://github.com/HARIPRASADOLA/Customer-Churn-Dataset-Analysis-Dashboard-/blob/main/customer%20churn%20dashboard.png)
 
+##Project Summary — Customer Churn Analysis Dashboard
+
+Developed an interactive Customer Churn Analysis Dashboard using Power BI to analyze customer retention, churn rate, revenue, subscription types, contract types, internet services, payment methods, and customer demographics. Used Power Query for data cleaning and transformation, DAX for KPI calculations, and Power BI for interactive data visualization. The dashboard provides key metrics including 166 total customers, 43 churned customers, 123 retained customers, 25.90% churn rate, 8.50M total revenue, average monthly charges, and average tenure.
+
+Tech Stack: Power BI · Power Query · DAX · Excel/CSV · Data Cleaning · Data Modeling · Data Visualization · Business Intelligence
  👨‍💻 Author
 
 Hari Prasad Ola
